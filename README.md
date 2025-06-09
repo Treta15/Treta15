@@ -2,22 +2,18 @@
 </head>
 <body>
   <div class="container">
-    <h1>👋 ¡Hola, bienvenido a mi perfil!</h1>
+    <h1>👋 ¡bienvenido a mi perfil!</h1>
     <p>
       Soy una persona apasionada por la tecnología, la automatización y todo lo relacionado con conectar sistemas para que trabajen mejor juntos.
     </p>
     <p>
       Me encanta programar, probar cosas nuevas y mantenerme siempre al día con lo último en tecnología. Disfruto encontrar soluciones creativas a los problemas, ya sea escribiendo código, automatizando tareas o integrando aplicaciones entre sí.
     </p>
-    <p>
       Me gusta ver hacia el futuro y pensar en cómo lo que hacemos hoy puede mejorar el mañana. Siempre estoy aprendiendo algo nuevo y buscando formas de crecer tanto personal como profesionalmente.
     </p>
   </div>
 </body>
-</html>
-
-
-## 🛠️ Tecnologías que domino
+ 🛠️ Tecnologías que domino
 
 ![Python](https://img.shields.io/badge/Python-70%25-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-60%25-ed8b00?style=for-the-badge&logo=java&logoColor=white)

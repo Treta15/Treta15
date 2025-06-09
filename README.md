@@ -1,60 +1,34 @@
 ## Brayan Higuera  👋
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
- 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
 
+## 🛠️ Tecnologías que domino
 
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,github,html,java,js,mysql,py,vscode&perline=14" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
+![Python](https://img.shields.io/badge/Python-70%25-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-60%25-ed8b00?style=for-the-badge&logo=java&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-50%25-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-50%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-45%25-e38c00?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-45%25-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-30%25-f0f6fc?style=for-the-badge&logo=github&logoColor=black)
+![Git](https://img.shields.io/badge/Git-20%25-f05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- Connect with me section -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
-<!--icons and links-->
+<!-- Contact icons -->
 <p align="center">
+  <!-- Gmail -->
+  <a href="brayanisaac507@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="50" width="50" />
+  </a>
+  
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/brayan-higuera-27a693344/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" />
   </a>
+ 
 
-
-<!--profile visit count-->
-<div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-
